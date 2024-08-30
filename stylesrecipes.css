@@ -1,0 +1,23 @@
+*{
+    background-color: blanchedalmond;
+    font-family: 'Comic Sans', sans-serif;
+}
+
+h1{
+    font-weight: bolder;
+    font-size: 100px;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+p{
+    font-style:italic
+}
+
+ul{
+    color:red
+}

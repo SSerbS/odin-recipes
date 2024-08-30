@@ -1,0 +1,13 @@
+*{
+    background-color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-weight: bold;
+    font-style: italic;
+}
+
+li{
+    color:purple;
+}
